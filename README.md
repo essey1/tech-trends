@@ -57,6 +57,9 @@ Link in pdf: https://essey1.github.io/Project-04/Essey_Araya_Presentation.pdf
 Link in pptx: https://essey1.github.io/Project-04/Essey_Araya_Presentation.pptx
 
 
+
+# Certifications
+
 [Coursera- IBM Data Analyst Capstone Project Certificate.pdf](https://github.com/essey1/Project-04/files/9592493/Coursera-.IBM.Data.Analyst.Capstone.Project.Certificate.pdf)
 
 [Coursera- IBM Data Analyst Professional Certificate.pdf](https://github.com/essey1/Project-04/files/9592492/Coursera-.IBM.Data.Analyst.Professional.Certificate.pdf)
