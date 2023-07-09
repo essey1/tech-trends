@@ -23,26 +23,26 @@ analyze the data and identify insights and trends that may include the following
 ## Step 1: Collecting Data
 Collected and explored data for analysis using APIs and web scraping.
 
-Link to collecting using API: https://github.com/essey1/Project-04/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb
+Link to collecting using API: https://github.com/essey1/tech-trends/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb
 
-Link to Web scraping: https://github.com/essey1/Project-04/blob/main/M1-Web-Scraping-Lab.ipynb
+Link to Web scraping: https://github.com/essey1/tech-trends/blob/main/M1-Web-Scraping-Lab.ipynb
 
-Link to exploring dataset: https://github.com/essey1/Project-04/blob/main/M2-ExploreDataSet-lab.ipynb
+Link to exploring dataset: https://github.com/essey1/tech-trends/blob/main/M2-ExploreDataSet-lab.ipynb
 
 ## Step 2: Data Wrangling
 Wrangled data to remove duplicates, impute missing values and normalize the data.
 
-Link: https://github.com/essey1/Project-04/blob/main/M3-DataWrangling-lab.ipynb
+Link: https://github.com/essey1/tech-trends/blob/main/M3-DataWrangling-lab.ipynb
 
 ## Step 3: Exploratory Analysis
 Administered exploratory analysis to find the distribution, presence of outliers and correlation of the data.
 
-Link: https://github.com/essey1/Project-04/blob/main/M4-ExploratoryDataAnalysis-lab.ipynb
+Link: https://github.com/essey1/tech-trends/blob/main/M4-ExploratoryDataAnalysis-lab.ipynb
 
 ## Step 4: Data Visualization
 Conducted SQL queries and generated various visualizations to showcase the data.
 
-Link: https://github.com/essey1/Project-04/blob/main/M5-DataVisualization-lab.ipynb
+Link: https://github.com/essey1/tech-trends/blob/main/M5-DataVisualization-lab.ipynb
 
 ## Step 5: Dashboards
 Generated dashboards using IBM Cognos Dashboard Embedded (CDE) to present the findings.
@@ -52,17 +52,17 @@ Link: https://eu-gb.dataplatform.cloud.ibm.com/dashboards/ce94cf0a-17e9-4240-9df
 ## Step 6: Final Presentation
 Created a PowerPoint presentation to report the findings, implications and recommendations.
 
-Link in pdf: https://essey1.github.io/Project-04/Essey_Araya_Presentation.pdf
+Link in pdf: https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pdf
 
-Link in pptx: https://essey1.github.io/Project-04/Essey_Araya_Presentation.pptx
+Link in pptx: https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pptx
 
 
 
 # Certifications
 
-[Coursera- IBM Data Analyst Capstone Project Certificate.pdf](https://github.com/essey1/Project-04/files/9592493/Coursera-.IBM.Data.Analyst.Capstone.Project.Certificate.pdf)
+[Coursera- IBM Data Analyst Capstone Project Certificate.pdf](https://github.com/essey1/tech-trends/files/9592493/Coursera-.IBM.Data.Analyst.Capstone.Project.Certificate.pdf)
 
-[Coursera- IBM Data Analyst Professional Certificate.pdf](https://github.com/essey1/Project-04/files/9592492/Coursera-.IBM.Data.Analyst.Professional.Certificate.pdf)
+[Coursera- IBM Data Analyst Professional Certificate.pdf](https://github.com/essey1/tech-trends/files/9592492/Coursera-.IBM.Data.Analyst.Professional.Certificate.pdf)
 
 
 
