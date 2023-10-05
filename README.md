@@ -1,4 +1,4 @@
-# IBM Data Analytics Capstone Project
+# IBM Data Analytics Capstone Project - Technology Trends
 
 In this project I took a role of a recently hired Data Analyst by a global IT and business consulting firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, the organization regularly analyzes data to help identify future skill requirements.
 
@@ -8,17 +8,17 @@ As a Data Analyst, I was tasked with collecting data from various sources and id
 
 Collect the top programming skills that are most in demand from various sources including:
 
-	Job postings <br />
-	Training portals <br />
-	Surveys <br />
+- Job postings
+- Training portals
+- Surveys
 
 ### Second Task
 
 analyze the data and identify insights and trends that may include the following:
 
-	What are the top programming languages in demand? <br />
-	What are the top database skills in demand? <br />
-	What are the popular IDEs? <br />
+- What are the top programming languages in demand?
+- What are the top database skills in demand?
+- What are the popular IDEs?
 
 ## Step 1: Collecting Data
 Collected and explored data for analysis using APIs and web scraping.
@@ -54,8 +54,7 @@ Created a PowerPoint presentation to report the findings, implications and recom
 
 Link in pdf: [https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pdf](https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pdf)
 
-Link in pptx: [https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pptx](https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pptx
-)
+Link in pptx: [https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pptx](https://essey1.github.io/tech-trends/Essey_Araya_Presentation.pptx)
 
 
 
