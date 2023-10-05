@@ -1,5 +1,8 @@
 # IBM Data Analytics Capstone Project - Technology Trends
 
+![tech-trends](https://github.com/essey1/tech-trends/assets/111381905/c63643d1-eb58-4035-9a6d-8a6d7100ac37)
+
+
 In this project I took a role of a recently hired Data Analyst by a global IT and business consulting firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, the organization regularly analyzes data to help identify future skill requirements.
 
 As a Data Analyst, I was tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
@@ -14,7 +17,7 @@ Collect the top programming skills that are most in demand from various sources 
 
 ### Second Task
 
-analyze the data and identify insights and trends that may include the following:
+Analyze the data and identify insights and trends that may include the following:
 
 - What are the top programming languages in demand?
 - What are the top database skills in demand?
@@ -23,11 +26,11 @@ analyze the data and identify insights and trends that may include the following
 ## Step 1: Collecting Data
 Collected and explored data for analysis using APIs and web scraping.
 
-Link to collecting using API: [https://github.com/essey1/tech-trends/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb](https://github.com/essey1/tech-trends/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb)
+Link to Collecting data using API: [https://github.com/essey1/tech-trends/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb](https://github.com/essey1/tech-trends/blob/main/M0-Collecting_Jobs_data_Using_API-Questions.ipynb)
 
 Link to Web scraping: [https://github.com/essey1/tech-trends/blob/main/M1-Web-Scraping-Lab.ipynb](https://github.com/essey1/tech-trends/blob/main/M1-Web-Scraping-Lab.ipynb)
 
-Link to exploring dataset: [https://github.com/essey1/tech-trends/blob/main/M2-ExploreDataSet-lab.ipynb](https://github.com/essey1/tech-trends/blob/main/M2-ExploreDataSet-lab.ipynb)
+Link to Exploring dataset: [https://github.com/essey1/tech-trends/blob/main/M2-ExploreDataSet-lab.ipynb](https://github.com/essey1/tech-trends/blob/main/M2-ExploreDataSet-lab.ipynb)
 
 ## Step 2: Data Wrangling
 Wrangled data to remove duplicates, impute missing values and normalize the data.
@@ -58,12 +61,8 @@ Link in pptx: [https://essey1.github.io/tech-trends/Essey_Araya_Presentation.ppt
 
 
 
-# Certifications
+## Certifications
 
 [Coursera- IBM Data Analyst Capstone Project Certificate.pdf](https://github.com/essey1/tech-trends/files/9592493/Coursera-.IBM.Data.Analyst.Capstone.Project.Certificate.pdf)
 
 [Coursera- IBM Data Analyst Professional Certificate.pdf](https://github.com/essey1/tech-trends/files/9592492/Coursera-.IBM.Data.Analyst.Professional.Certificate.pdf)
-
-
-
-
