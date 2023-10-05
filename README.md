@@ -1,6 +1,6 @@
 # IBM Data Analytics Capstone Project - Technology Trends
 
-![image](https://github.com/essey1/tech-trends/assets/111381905/cad26d31-91e5-4b3b-b29f-3b209853961d)
+![image](https://github.com/essey1/tech-trends/assets/111381905/f2490d80-f393-41fc-b1ee-4bd8d20248a8)
 
 In this project I took a role of a recently hired Data Analyst by a global IT and business consulting firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, the organization regularly analyzes data to help identify future skill requirements.
 
